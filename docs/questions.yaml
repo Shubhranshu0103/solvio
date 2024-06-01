@@ -1,0 +1,68 @@
+Questions:
+- type: Question
+  tags:
+  - Properties of Addition and Subtraction 
+  - Closure under Addition 
+  statement: Is the result of (–10) + 3 an integer?
+  answer:
+    type: constant
+    value: True
+
+
+- type: Question
+  tags: 
+  - Properties of Addition and Subtraction 
+  - Closure under Addition 
+  statement: Is the result of 7–9 an integer?
+  answer:
+    type: constant
+    value: True
+
+- type: Question
+  tags:
+  - Properties of Addition and Subtraction
+  - Commutativity
+  statement: Are (–23)+32 equal 32+(-23) same ?
+  answer:
+    type: constant
+    value: True
+
+- type: Question
+  tags:
+  - Properties of Addition and Subtraction
+  - Commutativity
+  statement: Are 5-(-3) and (-3)-5 same ?
+  answer:
+    type: constant
+    value: False
+
+- type: Question
+  tags:
+  - Properties of Addition and Subtraction
+  - Associativity
+  statement: Is [(-5)+3]+(-2) equal to (-5)+[3+(-2)] ?
+  answer:
+    type: constant
+    value: True
+
+- type: Question
+  tags:
+  - Properties of Addition and Subtraction
+  - Associativity
+  statement: Can we say that we can add integers in any order?
+  answer:
+    type: constant
+    value: True
+
+- type: Question
+  tags:
+  - Properties of Addition and Subtraction
+  - Additive Identity
+  statement: Write a pair of Integers whose sum gives 0.
+  answer:
+    type: Computation
+    inputs:
+      - type: Integer
+      - type: Integer
+    op: sum
+    outpus: 0
