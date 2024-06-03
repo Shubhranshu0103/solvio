@@ -1,5 +1,6 @@
 Questions:
 - type: Question
+  qId: 958df7d2-e4e1-434d-b336-22e4746a21bf
   tags:
   - Properties of Addition and Subtraction 
   - Closure under Addition 
@@ -10,6 +11,7 @@ Questions:
 
 
 - type: Question
+  qId: ac7c5f35-bab7-46b0-b42d-1cf89cdf7512
   tags: 
   - Properties of Addition and Subtraction 
   - Closure under Addition 
@@ -19,6 +21,7 @@ Questions:
     value: True
 
 - type: Question
+  qId: b3aada91-fd8f-4001-81ca-fe57e82d4143
   tags:
   - Properties of Addition and Subtraction
   - Commutativity
@@ -28,6 +31,7 @@ Questions:
     value: True
 
 - type: Question
+  qId: 94960315-b0f5-48a0-9a1e-a6e4850407c0
   tags:
   - Properties of Addition and Subtraction
   - Commutativity
@@ -37,6 +41,7 @@ Questions:
     value: False
 
 - type: Question
+  qId: 29286de7-213c-4b30-8116-c9fb113fd811
   tags:
   - Properties of Addition and Subtraction
   - Associativity
@@ -46,6 +51,7 @@ Questions:
     value: True
 
 - type: Question
+  qId: e2a3e5c5-b8be-4db2-8626-608e1ac69d0f
   tags:
   - Properties of Addition and Subtraction
   - Associativity
@@ -55,6 +61,7 @@ Questions:
     value: True
 
 - type: Question
+  qId: c3eabf8a-e8cb-4922-9dc7-c0486dad8341
   tags:
   - Properties of Addition and Subtraction
   - Additive Identity

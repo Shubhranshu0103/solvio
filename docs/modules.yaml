@@ -1,0 +1,109 @@
+modules:
+- name: "Properties of Integers"
+  type: module
+  submodules:
+  - Properties of Addition and Subtraction
+  - Multiplication of Integers
+  - Properties of Multiplication
+  - Division of Integers and its properties
+
+- name: Properties of Addition and Subtraction
+  type: module
+  submodules:
+  - Closure under Addition
+  - Closure under Subtraction
+  - Commutativity in Addition and Subtraction
+  - Associativity in Addition and Subtraction
+  - Additive Identity
+
+- name: Multiplication of Integers 
+  type: module
+  submodules:
+  - Multiplication of a positive and negative number
+  - Multiplication of two negative numbers
+
+- name: Properties of Multiplication
+  type: module
+  submodules:
+  - Closure under Multiplication
+  - Commutativity in Multiplication
+  - Multiplication by zero
+  - Multiplicative Identity
+  - Associativity in Multiplication
+  - Distributive Property in Multiplication
+
+- name: Division of Integers and its properties
+  type: module
+  submodules:
+  - Division of a positive and negative number
+  - Division of two negative numbers
+  - Closure under Division
+  - Commutativity in Division
+  - Associativity in Division
+  - Distributive in Division
+
+
+
+- name: Closure under Addition
+  type: lesson
+  article: Closure under Addition
+
+- name: Closure under Subtraction
+  type: lesson
+  article: Closure under Subtraction
+  
+- name: Commutativity in Addition and Subtraction
+  type: lesson
+  article: Commutativity in Addition and Subtraction
+  
+- name: Associativity in Addition and Subtraction
+  type: lesson
+  article: Associativity in Addition and Subtraction
+  
+- name: Additive Identity
+  type: lesson
+  article: Additive Identity
+  
+
+- name: Division of a positive and negative number
+  type: lesson
+  article: Division of a positive and negative number
+- name: Division of two negative numbers
+  type: lesson
+  article: Division of two negative numbers
+- name: Commutativity in Division
+  type: lesson
+  article: Commutativity in Division
+- name: Associativity in Division
+  type: lesson
+  article: Associativity in Division in Division
+
+- name: Distributivity in Division
+  type: lesson
+  article: Distributivity in Division
+
+- name: Multiplication of a positive and negative number
+  type: lesson
+  article: Multiplication of a positive and negative number
+- name: Multiplication of two negative numbers
+  type: lesson
+  article: Multiplication of two negative numbers
+
+- name: Closure under Multiplication
+  type: lesson
+  article: Closure under Multiplication
+- name: Commutativity in Multiplication
+  type: lesson
+  article: Commutativity in Multiplication
+- name: Multiplication by zero
+  type: lesson
+  article: Multiplication by zero
+- name: Multiplicative Identity
+  type: lesson
+  article: Multiplicative Identity
+- name: Associativity in Multiplication
+  type: lesson
+  article: Associativity in Multiplication
+- name: Distributive Property in Multiplication
+  type: lesson
+  article: Distributive Property in Multiplication

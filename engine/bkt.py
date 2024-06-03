@@ -1,8 +1,12 @@
 # https://chatgpt.com/share/f85773e8-094f-42d9-8220-358d74fa144b
 
 
+learn_rate = 0.1
+guess_rate = 0.2
+slip_rate = 0.1
+
 class BKT:
-    def __init__(self, learn_rate, guess_rate, slip_rate, initial_mastery):
+    def __init__(self, initial_mastery):
         self.L = learn_rate
         self.G = guess_rate
         self.S = slip_rate
